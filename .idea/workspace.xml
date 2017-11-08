@@ -1,0 +1,989 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4540328b-1dd2-4587-9da0-7c98e2840408" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/110100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/120100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/130100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/130200.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/130300.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/130400.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/130500.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/130600.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/130700.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/130800.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/130900.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/131000.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/131100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/140100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/140200.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/140300.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/140400.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/140500.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/140600.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/140700.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/140800.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/140900.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/141000.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/141100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/150100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/150200.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/150300.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/150400.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/150500.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/150600.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/150700.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/150800.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/150900.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/152200.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/152500.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/152900.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/210100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/210200.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/210300.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/210400.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/210500.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/210600.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/210700.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/210800.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/210900.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/211000.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/211100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/211200.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/211300.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/211400.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/220100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/220200.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/220300.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/220400.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/220500.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/220600.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/220700.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/220800.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/222400.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/230100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/230200.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/230300.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/230400.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/230500.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/230600.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/230700.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/230800.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/230900.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/231000.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/231100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/231200.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/232700.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/310100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/310200.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/320100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/320200.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/320300.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/320400.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/320500.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/320600.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/320700.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/320800.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/320900.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/321000.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/321100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/321200.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/321300.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/330100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/330200.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/330300.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/330400.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/330500.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/330600.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/330700.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/330800.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/330900.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/331000.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/331100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/340100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/340200.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/340300.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/340400.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/340500.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/340600.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/340700.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/340800.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/341000.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/341100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/341200.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/341300.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/341500.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/341600.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/341700.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/341800.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/350100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/350200.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/350300.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/350400.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/350500.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/350600.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/350700.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/350800.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/350900.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/360100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/360200.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/360300.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/360400.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/360500.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/360600.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/360700.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/360800.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/360900.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/361000.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/361100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/370100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/370200.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/370300.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/370400.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/370500.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/370600.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/370700.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/370800.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/370900.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/371000.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/371100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/371200.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/371300.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/371400.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/371500.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/371600.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/371700.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/410100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/410200.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/410300.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/410400.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/410500.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/410600.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/410700.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/410800.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/410900.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/411000.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/411100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/411200.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/411300.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/411400.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/411500.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/411600.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/411700.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/420100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/420200.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/420300.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/420500.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/420600.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/420700.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/420800.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/420900.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/421000.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/421100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/421200.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/421300.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/422800.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/429000.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/430100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/430200.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/430300.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/430400.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/430500.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/430600.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/430700.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/430800.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/430900.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/431000.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/431100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/431200.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/431300.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/433100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/440100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/440200.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/440300.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/440400.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/440500.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/440600.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/440700.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/440800.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/440900.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/441200.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/441300.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/441400.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/441500.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/441600.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/441700.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/441800.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/441900.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/442000.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/445100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/445200.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/445300.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/450100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/450200.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/450300.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/450400.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/450500.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/450600.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/450700.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/450800.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/450900.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/451000.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/451100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/451200.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/451300.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/451400.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/460100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/460200.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/460300.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/469000.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/500100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/510100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/510300.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/510400.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/510500.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/510600.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/510700.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/510800.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/510900.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/511000.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/511100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/511300.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/511400.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/511500.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/511600.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/511700.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/511800.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/511900.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/512000.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/513200.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/513300.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/513400.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/520100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/520200.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/520300.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/520400.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/522200.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/522300.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/522400.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/522600.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/522700.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/530100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/530300.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/530400.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/530500.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/530600.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/530700.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/530800.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/530900.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/532300.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/532500.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/532600.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/532800.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/532900.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/533100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/533300.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/533400.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/540100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/542100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/542200.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/542300.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/542400.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/542500.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/542600.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/610100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/610200.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/610300.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/610400.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/610500.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/610600.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/610700.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/610800.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/610900.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/611000.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/620100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/620200.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/620300.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/620400.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/620500.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/620600.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/620700.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/620800.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/620900.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/621000.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/621100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/621200.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/622900.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/623000.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/630100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/632100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/632200.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/632300.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/632500.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/632600.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/632700.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/632800.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/640100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/640200.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/640300.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/640400.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/640500.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/650100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/650200.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/652100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/652200.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/652300.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/652700.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/652800.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/652900.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/653000.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/653100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/653200.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/654000.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/654200.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/654300.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/659000.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/710000.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/810100.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/820000.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/anhui.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/aomen.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/beijing.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/china.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/chongqing.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/fujian.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/gansu.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/guangdong.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/guangxi.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/guizhou.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/hainan.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/hebei.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/heilongjiang.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/henan.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/hubei.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/hunan.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/jiangsu.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/jiangxi.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/jilin.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/liaoning.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/neimenggu.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/ningxia.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/qinghai.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/shandong.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/shanghai.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/shanxi.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/shanxi1.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/sichuan.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/taiwan.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/tianjin.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/xianggang.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/xinjiang.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/xizang.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/yunnan.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/mapJson/zhejiang.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/component/Chart/core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/component/Chart/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/index.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/routes/chart/EchartsBMap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/routes/chart/EchartsMap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/routes/chart/china-main-map.js" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="12" lean-forward="false" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="12" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="zhejiang.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/mapJson/zhejiang.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/index.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="32" column="11" lean-forward="false" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="39" column="14" lean-forward="true" selection-start-line="39" selection-start-column="14" selection-end-line="39" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="china-main-map.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/routes/chart/china-main-map.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="608">
+              <caret line="32" column="4" lean-forward="false" selection-start-line="32" selection-start-column="2" selection-end-line="32" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="core.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/component/Chart/core.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EchartsMap.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/routes/chart/EchartsMap.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-543">
+              <caret line="67" column="17" lean-forward="true" selection-start-line="67" selection-start-column="17" selection-end-line="67" selection-end-column="17" />
+              <folding>
+                <element signature="e#41#82#0" expanded="true" />
+                <element signature="e#968#1072#0" expanded="false" />
+                <element signature="e#1089#1204#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EchartsBMap.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/routes/chart/EchartsBMap.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="80" column="0" lean-forward="false" selection-start-line="80" selection-start-column="0" selection-end-line="80" selection-end-column="0" />
+              <folding>
+                <element signature="e#41#82#0" expanded="true" />
+                <element signature="e#854#1829#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="7" lean-forward="false" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="webpack.config.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webpack.config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="816">
+              <caret line="62" column="13" lean-forward="false" selection-start-line="62" selection-start-column="13" selection-end-line="62" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>chinaMap</find>
+      <find>新疆</find>
+      <find>_</find>
+      <find>ShowMapChart</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/css.css" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/webpack.config.js" />
+        <option value="$PROJECT_DIR$/src/index.css" />
+        <option value="$PROJECT_DIR$/src/routes/chart/index.js" />
+        <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/src/routes/chart/EchartsBMap.js" />
+        <option value="$PROJECT_DIR$/src/routes/chart/EchartsMap.js" />
+        <option value="$PROJECT_DIR$/src/index.js" />
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1696" />
+    <option name="height" value="1026" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Echarts-based-on-React" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Echarts-based-on-React" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Echarts-based-on-React" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Echarts-based-on-React" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Echarts-based-on-React" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Echarts-based-on-React" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="routes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chart" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Echarts-based-on-React" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Echarts-based-on-React" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="component" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chart" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Echarts-based-on-React" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Echarts-based-on-React" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="F:/webpack-stage" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Echarts-based-on-React\public" />
+      <recent name="F:\Echarts-based-on-React\src\routes\chart" />
+      <recent name="F:\Echarts-based-on-React\src\component" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Echarts-based-on-React\src\component\Chart" />
+      <recent name="F:\Echarts-based-on-React\src\routes\chart" />
+      <recent name="F:\Echarts-based-on-React\public" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4540328b-1dd2-4587-9da0-7c98e2840408" name="Default" comment="" />
+      <created>1510107566959</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1510107566959</updated>
+      <workItem from="1510107568116" duration="11974000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="11974000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24969843" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3295964" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/data.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/print.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="1" lean-forward="false" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/iconFont.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-25755">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/image.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/routes/chart/mapJson/anhui.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="0" column="2683" lean-forward="false" selection-start-line="0" selection-start-column="2683" selection-end-line="0" selection-end-column="2683" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/Chart/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#30#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-29">
+          <caret line="26" column="25" lean-forward="false" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="32" column="11" lean-forward="false" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="62" column="13" lean-forward="false" selection-start-line="62" selection-start-column="13" selection-end-line="62" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/routes/chart/EchartsBMap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="80" column="0" lean-forward="false" selection-start-line="80" selection-start-column="0" selection-end-line="80" selection-end-column="0" />
+          <folding>
+            <element signature="e#41#82#0" expanded="true" />
+            <element signature="e#854#1829#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/routes/chart/china-main-map.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="32" column="4" lean-forward="false" selection-start-line="32" selection-start-column="2" selection-end-line="32" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/mapJson/anhui.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/Chart/core.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="7" lean-forward="false" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/routes/chart/EchartsMap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-543">
+          <caret line="67" column="17" lean-forward="true" selection-start-line="67" selection-start-column="17" selection-end-line="67" selection-end-column="17" />
+          <folding>
+            <element signature="e#41#82#0" expanded="true" />
+            <element signature="e#968#1072#0" expanded="false" />
+            <element signature="e#1089#1204#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/mapJson/zhejiang.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="12" lean-forward="false" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="12" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="39" column="14" lean-forward="true" selection-start-line="39" selection-start-column="14" selection-end-line="39" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
