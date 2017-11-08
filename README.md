@@ -5,11 +5,11 @@
 
     $ git clone https://github.com/ZhiRongYuan/Echarts-based-on-React.git
 
-2. Entry Project Path
+2.Entry Project Path
 
     cd Echarts-based-on-React
 
-3. Installation dependent packet
+3.Installation dependent packet
 
    npm install
 

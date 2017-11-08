@@ -11,6 +11,7 @@ import chinaJson from '../public/mapJson/china.json';
 import zhejiang from '../public/mapJson/zhejiang.json';
 import { chinaMap } from './routes/chart/china-main-map';
 echarts.registerMap('china', chinaJson);  //初始中国地图
+import NormalChart from './routes/chart/NormalChart';
 
 class App extends React.Component {
     static propTypes = {
@@ -53,8 +54,7 @@ class App extends React.Component {
                                 mapSeriesType: 'map'
                             });
                         }, err => {
-                            console.error(err);
-                            const error = new Error('连接服务器失败，请稍后重试');
+                            const error = new Error('未请求到地图数据');
                             error.response = err.response;
                             throw error;
                         })
@@ -67,13 +67,23 @@ class App extends React.Component {
         return (
             <ul className='Wrap clearfix'>
                 <li>
-
+                    <div className="chartWrap">
+                        <div className="chartTitle">报表1</div>
+                        <div style={{ width: '100%', height: '200px' }} className="chart">
+                            <NormalChart />
+                        </div>
+                    </div>
                 </li>
                 <li>
                     <EchartsMap echarts={this.echartsInstance} onEvents={this.getMapChartEvents()} mapType={this.state.mapType}/>
                 </li>
                 <li>
-
+                    <div className="chartWrap">
+                        <div className="chartTitle">报表1</div>
+                        <div style={{ width: '100%', height: '200px' }}>
+                            <NormalChart />
+                        </div>
+                    </div>
                 </li>
             </ul>
     )
