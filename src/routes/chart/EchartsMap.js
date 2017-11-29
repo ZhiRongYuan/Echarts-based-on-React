@@ -14,6 +14,11 @@ function ShowMapChart({
     }
 
     let option = {
+        title: {
+            show: true,
+            text: 'test',
+            left: 'center'
+        },
         tooltip: {
             trigger: 'item',
             formatter: '{b}'
@@ -24,7 +29,7 @@ function ShowMapChart({
             min: 1,
             max: 200,
             left: 'right',
-            bottom: 0,
+            bottom: -10,
             text: ['高', '低'],           // 文本，默认为数值文本
             calculable: false,
             color: ['#1772c6', '#2d81c8', '#408dce', '#5197d2', '#77b2de', '#a3cae7', '#bedbeb', '#d0e6f3'],
@@ -33,37 +38,12 @@ function ShowMapChart({
             },
             orient: 'horizontal'
         },
-        grid: {
-            height: 200,
-            width: 8,
-            right: 80,
-            bottom: 10
-        },
+
         xAxis: {
-            type: 'category',
-            data: [],
-            splitNumber: 1,
             show: false
         },
         yAxis: {
-            position: 'right',
-            min: 0,
-            max: 20,
-            splitNumber: 20,
-            inverse: true,
-            axisLabel: {
-                show: true
-            },
-            axisLine: {
-                show: false
-            },
-            splitLine: {
-                show: false
-            },
-            axisTick: {
-                show: false
-            },
-            data: []
+            show: false
         },
         series: [
             {

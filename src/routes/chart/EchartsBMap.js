@@ -6,7 +6,7 @@ import Chart from '../../component/Chart/index';
 
 import echarts from 'echarts';
 
-function ShowBMapChart() {
+function ShowBMapChart({bmapCenter}) {
 
     let option = {
         tooltip : {
@@ -22,7 +22,7 @@ function ShowBMapChart() {
             formatter: null
         },
         bmap: {
-            center: [113.385643, 23.166129],
+            center: bmapCenter,
             zoom: 14,
             roam: true
         },

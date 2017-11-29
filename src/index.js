@@ -12,6 +12,7 @@ import zhejiang from '../public/mapJson/zhejiang.json';
 import { chinaMap } from './routes/chart/china-main-map';
 echarts.registerMap('china', chinaJson);  //初始中国地图
 import NormalChart from './routes/chart/NormalChart';
+import ShowBMapChart from './routes/chart/EchartsBMap';
 
 class App extends React.Component {
     static propTypes = {
@@ -25,7 +26,8 @@ class App extends React.Component {
     constructor(props) {
         super(props);
         this.state = {
-            mapType: 'china'
+            mapType: 'china',
+            bmapCenter: []
         }
         this.echartsInstance = echarts;
     }
@@ -50,14 +52,23 @@ class App extends React.Component {
                     axios(config).then((result)=> {
                             this.echartsInstance.registerMap(chinaMap[params.name], result.data);
                             this.setState({
-                                mapType: chinaMap[params.name],
-                                mapSeriesType: 'map'
+                                mapType: chinaMap[params.name]
                             });
                         }, err => {
                             const error = new Error('未请求到地图数据');
                             error.response = err.response;
                             throw error;
                         })
+                } else {
+                    const myGeo = new BMap.Geocoder();
+                    myGeo.getPoint(params.name, (point) => {
+                        if(point){
+                            this.setState({
+                                mapType: '',
+                                bmapCenter: [point.lng, point.lat]
+                            });
+                        }
+                    });
                 }
             }
         };
@@ -75,7 +86,12 @@ class App extends React.Component {
                     </div>
                 </li>
                 <li>
-                    <EchartsMap echarts={this.echartsInstance} onEvents={this.getMapChartEvents()} mapType={this.state.mapType}/>
+                    <div style={{ width: '100%', height: '100%' }}>
+                        {
+                            this.state.mapType ? <EchartsMap echarts={this.echartsInstance} onEvents={this.getMapChartEvents()} mapType={this.state.mapType}/> :
+                                <ShowBMapChart bmapCenter={this.state.bmapCenter} />
+                        }
+                    </div>
                 </li>
                 <li>
                     <div className="chartWrap">
