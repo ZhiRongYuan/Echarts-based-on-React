@@ -11,11 +11,11 @@
 
 3.Installation dependent packet
 
-   npm install
+    npm install
 
 4.run project and view
 
-   npm run start
+    npm run start
 
 
 访问 http://localhost:8080(start后 会自动打开浏览器访问)
@@ -44,6 +44,8 @@
 * 地图下钻采用按需加载，即用户点击查询某省/某市 则用Ajax(项目采用axios)请求相应的省市地图数据
 
 * ECharts 结合百度地图API可以展示非常炫丽的地图动画（本项目实现了县级地图某个地址标注）
+
+* 各个报表图的配置请参考百度官方API http://echarts.baidu.com/option.html#xAxis
 
 ##### 常见问题1 #####
 首先，我们需要引入echarts, 以及 echarts的地图扩展 bmap (地图扩展，这个很关键，如果不引入，程序运行后会出现“unknown coordinateSystem bmap”的错误)。
