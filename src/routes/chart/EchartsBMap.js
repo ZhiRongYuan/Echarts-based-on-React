@@ -1,5 +1,6 @@
 /**
- * Created by 0291 on 2017/11/8.
+ * Created by zhirongyaun on 2017/11/8.
+ * desc:  百度地图
  */
 import React, { Component } from 'react';
 import Chart from '../../component/Chart/index';

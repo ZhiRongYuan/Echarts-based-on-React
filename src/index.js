@@ -8,7 +8,6 @@ import Styles from './index.css';
 import axios from 'axios';
 import echarts from 'echarts';
 import chinaJson from '../public/mapJson/china.json';
-import zhejiang from '../public/mapJson/zhejiang.json';
 import { chinaMap } from './routes/chart/china-main-map';
 echarts.registerMap('china', chinaJson);  //初始中国地图
 import NormalChart from './routes/chart/NormalChart';
@@ -36,10 +35,6 @@ class App extends React.Component {
 
     }
 
-    clickHandelr() {
-
-    }
-
     getMapChartEvents() {
         return {
             click: (params) => {
@@ -49,7 +44,7 @@ class App extends React.Component {
                         method: 'get'
                     };
 
-                    axios(config).then((result)=> {
+                    axios(config).then((result)=> { //动态获取 省市区地图数据
                             this.echartsInstance.registerMap(chinaMap[params.name], result.data);
                             this.setState({
                                 mapType: chinaMap[params.name]
