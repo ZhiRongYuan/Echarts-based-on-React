@@ -3,7 +3,7 @@
 
 1.git clone Project Code:
 
-    $ git clone https://github.com/ZhiRongYuan/Echarts-based-on-React.git
+    git clone https://github.com/ZhiRongYuan/Echarts-based-on-React.git
 
 2.Entry Project Path
 
@@ -43,7 +43,8 @@
 
 * 地图下钻采用按需加载，即用户点击查询某省/某市 则用Ajax(项目采用axios)请求相应的省市地图数据
 
-* ECharts 结合百度地图API可以展示非常炫丽的地图动画（本项目实现了县级地图某个地址标注）
+* ECharts 结合百度地图API可以展示非常炫丽的地图动画（本项目实现了县级地图某个地址标注）,效果图如下：
+![项目效果图](https://github.com/ZhiRongYuan/Echarts-based-on-React/raw/master/show.png)
 
 ##### 常见问题1 #####
 首先，我们需要引入echarts, 以及 echarts的地图扩展 bmap (地图扩展，这个很关键，如果不引入，程序运行后会出现“unknown coordinateSystem bmap”的错误)。
